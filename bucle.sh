@@ -1,5 +1,7 @@
 #!/bin/bash
 
+#rep significa repeticion
+
 rep=1000000
 
 for i in $(seq 1 $rep)
